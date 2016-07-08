@@ -1,0 +1,8 @@
+.DS_Store
+*.swp
+*.pbxuser
+xcuserdata
+Pods/
+Carthage/Build
+build/
+DerivedData/
